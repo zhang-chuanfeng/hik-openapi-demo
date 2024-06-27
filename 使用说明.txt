@@ -1,0 +1,2 @@
+1、HttpUtil封装了繁杂的认证过程，Windows下导出库为HttpUtil.lib，Linux下导出库为libHttpUtil.so（适配x86/64架构CenterOS操作系统）；
+2、使用示例详见doc/OpenAPI安全认证库（C&C++）开发指南.pdf中“3.2基于OpenAPI安全认证库（C/C++）接口的使用示例”章节；

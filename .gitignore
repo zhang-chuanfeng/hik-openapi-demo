@@ -1,0 +1,4 @@
+/bin
+/HttpUtilTest/VisualGDB
+.zig-cache
+zig-out
